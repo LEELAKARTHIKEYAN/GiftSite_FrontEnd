@@ -15,7 +15,4 @@
 
 ![WhatsApp Image 2022-04-30 at 9 58 22 PM](https://user-images.githubusercontent.com/94191086/166120097-5b880dd4-3664-4122-92f5-32670e6db4f2.jpeg)
 
-
-
-
-    ### In future , I might add more features and update this website
+    ## In future,I might add more features and update this website
